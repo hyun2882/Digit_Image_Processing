@@ -81,4 +81,4 @@ show_n([content_image, style_image, stylized_image], titles=['Original content i
 
 
 ### 결과
-"![1](https://user-images.githubusercontent.com/62661939/98797503-ff597080-244f-11eb-9ba6-23b4bf16c285.png)"
+![1](https://user-images.githubusercontent.com/62661939/98797503-ff597080-244f-11eb-9ba6-23b4bf16c285.png)
