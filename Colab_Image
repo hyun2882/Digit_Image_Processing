@@ -77,3 +77,7 @@ outputs = hub_module(tf.constant(content_image), tf.constant(style_image))
 stylized_image = outputs[0]
 show_n([content_image, style_image, stylized_image], titles=['Original content image', 'Style image', 'Stylized image'])
 
+
+결과
+-------------
+![결과](https://user-images.githubusercontent.com/62661939/98795003-0f238580-244d-11eb-971c-c186d0e15f07.png)
